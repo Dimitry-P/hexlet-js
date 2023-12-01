@@ -3,7 +3,7 @@
   "name": "hexlet-hello-world",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "nodejs-package/src",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
